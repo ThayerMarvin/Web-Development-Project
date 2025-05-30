@@ -1,2 +1,2 @@
 # Web-Development-Project
-Website to track exercises
+This is a web app written in javascript using the rest API connected to mongodb to track exercises.
